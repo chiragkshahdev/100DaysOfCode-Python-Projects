@@ -13,12 +13,3 @@ A Text-Based Adventure Game. Users Make choices at Crossroad, Lake, and doors to
 
 ### What I Built
 - Treasure island Game.
-# 💯 100 Days Of Code - Python Projects
-
-Welcome to my 100 Days of Python coding journey! This repo contains 100 projects from beginner to advanced level.
-
-> Based on Angela Yu's 100 Days of Code: The Complete Python Pro Bootcamp
-
-### 🛠️ How to Run
-```bash
-git clone https://github.com/chiragshahdev/100Da
