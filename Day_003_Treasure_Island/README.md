@@ -3,13 +3,12 @@
 This is Day 3 Project of 100 Days Of Code In Python.
 
 ### Concept Learned
-- Control Flow with if / else
-- Conditional Operators
+- Control Flow (if / else / elif)
 - Logical Operators
-- Nested if and elif
+- Nested if
 
 ### How it Works
-A Text-Based Adventure Game. Users Make choices at Crossroad, Lake, and doors to Find The Treasure.
+It's a Text-Based Adventure Game. User makes choices at Crossroad, Lake, and Doors to find the treasure.
 
 ### What I Built
-- Treasure island Game.
+Treasure Island Game.
