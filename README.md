@@ -1,6 +1,6 @@
 # 💯 100 Days Of Code - Python Projects<br>
-# Owner: Chirag kiran Shah<br>
-# Author: Chirag Kiran Shah
+Owner: Chirag kiran Shah<br>
+Author: Chirag Kiran Shah
 
 Welcome to my 100 Days of Python coding journey! This repo contains 100 projects from beginner to advanced level.
 
