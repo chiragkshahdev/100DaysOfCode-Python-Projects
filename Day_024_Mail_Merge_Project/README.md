@@ -26,5 +26,5 @@ Automated letter generator using Python File Handling.
 - `replace()` replaces placeholder
 - Using `with open()` automatically closes files
 
-Author: Chetag Kiran Shah - FYBScIT A - Roll 08
+Author: Chirag Kiran Shah - FYBScIT 
 Day 24 / 100 Days of Code - Python
