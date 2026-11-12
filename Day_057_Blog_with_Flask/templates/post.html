@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ post.title }}</title>
+    <style>
+        body { font-family: Arial; max-width: 700px; margin: auto; padding: 20px; }
+        a { color: #2563eb; }
+    </style>
+</head>
+<body>
+
+    <a href="/">← Back to Home</a>
+
+    {% if post %}
+        <h1>{{ post.title }}</h1>
+        <p>By {{ post.author }} | {{ post.date }}</p>
+        <hr>
+        <p>{{ post.content }}</p>
+    {% else %}
+        <h1>Post Not Found</h1>
+        <p>Sorry, this blog post does not exist.</p>
+    {% endif %}
+
+</body>
+</html>
