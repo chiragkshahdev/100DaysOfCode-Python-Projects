@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name | Name Card</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="card">
+        <img src="{{ url_for('static', filename='images/profile.jpg') }}" alt="Profile Photo" class="profile-img">
+        <h1>Your Name</h1>
+        <h3>Python Developer</h3>
+        <p>I am a passionate developer who loves building web apps with Python & Flask. I enjoy learning new technologies and creating clean, simple projects.</p>
+        <div class="buttons">
+            <a href="https://github.com/chiragkshahdev" target="_blank">GitHub</a>
+            <a href="https://www.linkedin.com/in/chirag-kiran-shah-466007438/" target="_blank">LinkedIn</a>
+        </div>
+    </div>
+</body>
+</html>
