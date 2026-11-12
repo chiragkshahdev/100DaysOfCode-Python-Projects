@@ -1,0 +1,6 @@
+[2026-11-12 12:57:18] === Data Entry Automation Started ===
+[2026-11-12 12:57:18] Loaded 10 rows from data.csv
+[2026-11-12 12:57:18] Removed 1 duplicate rows
+[2026-11-12 12:57:18] Valid: 7 | Invalid: 2
+[2026-11-12 12:57:18] Invalid rows saved to invalid_rows.csv
+[2026-11-12 12:57:18] Saved 7 rows to database.db -> table: entries
